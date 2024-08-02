@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 11 14:35:28 2024
-
-@author: Stefano
-"""
-# RUN WITH streamlit run "C:/Users/Stefano/iCloudDrive/Stefano/Progetti & Business/Progetti/Streamlit web tool/Simula mutuo/untitled1.py"
-
 import streamlit as st
 import pandas as pd
 import numpy as np
